@@ -23,4 +23,4 @@ FULLGAMES/ ├── index.html ├── categorias.html ├── Descargar Ju
 ## ⚙️ Cómo ejecutarlo
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/TU-USUARIO/FullGames.git
+  https://mobomailevachristian-afk.github.io/FullGames/
